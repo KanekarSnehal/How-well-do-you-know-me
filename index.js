@@ -43,6 +43,11 @@ answer:"MUMBAI"
 {
   question:"4.Which is my favourite color?  \n-->",
   answer:"yellow"
+},
+  
+{
+  question:"5.Which subject do I like the most?   \n-->",
+  answer:"Maths"
 }
 
 ]
